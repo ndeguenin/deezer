@@ -1,0 +1,26 @@
+/** SEARCH BAR CSS **/
+.searchbox {
+    padding: 15px;
+    max-width: 800px;
+    margin: auto;
+}
+.search-label {
+    display: block;
+    position: relative;
+}
+.searchbox input {
+    width: 100%;
+    padding: 16px;
+    font-size: 16px;
+    font-style: italic;
+    color: #444;
+    box-sizing: border-box;
+    outline: none;
+}
+.search-icon {
+    position: absolute;
+    top: 15px;
+    font-size: 24px;
+    color: #555;
+    right: 18px;
+}
